@@ -1,3 +1,20 @@
-h1 { 
-    font-size: xx-large;
+
+
+
+.hero { 
+    background: #FAEED1;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
+
+.hero p {
+    font-family: "Helvetica", sans-serif;
+}
+
+.hero h1, h2 { 
+    font-family: "Calibri";
+    line-height: 70px;
+    font-weight: 100;
+}
+
