@@ -4,8 +4,7 @@
 .hero { 
     background: #FAEED1;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding: 140px 20px;
 }
 
 .hero p {
