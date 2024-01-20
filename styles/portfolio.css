@@ -24,6 +24,9 @@ root {--main-color:#294B29;
 
 .global-button-primary:hover {
   background-color: #fff;
+  text-decoration: none;
+  color: #422800;
+
 }
 
 .global-button-primary:active {
