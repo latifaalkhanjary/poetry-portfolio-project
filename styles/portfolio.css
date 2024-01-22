@@ -42,21 +42,55 @@ root {--main-color:#294B29;
 
 .hero p {
     font-family: "Helvetica";
-    font-size: 30px;
+    text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 
-.hero h1, h2 { 
+.hero h1 { 
     font-family: "Helvetica";
-    line-height: 70px;
-    font-weight: 100;
+    font-size: 96px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.hero h2 {
+    text-align: center;
+font-family: "helvetica";
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
 
 
-.container p{
+.container p {
     font-family: "Helvetica";
-    font-size: 17px;
-    font-weight: 400;
-    line-height: 30px;
-    letter-spacing: 0em;
-    text-align: left;    
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;    
 }
+
+.container h2 { 
+    font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+img {
+border: 100px #422800;
+
+}
+
+.container-contact {
+text-align: center;
+    border: 20px;
+padding: 49px, 119px;
+background-color: solid black;
+}
+
