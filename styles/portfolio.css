@@ -94,3 +94,38 @@ padding: 49px, 119px;
 background-color: solid black;
 }
 
+
+footer .social-links {
+    text-align: center;
+    
+}
+
+footer .social-links a { 
+     color:#294B29;
+     margin: 0px 20px;
+     padding: 10px 14px;
+     background:#fbeee0;
+     border-radius: 50%;
+}
+
+footer .socal-links a:hover { 
+   color: #fbeee0;
+}
+
+
+footer .contact-email {
+    text-align: center;
+margin: 20px 20px;
+
+
+}
+
+footer .contact-email a { 
+    color:#294B29;
+    margin: auto;
+        font-size: 40px;
+}
+
+footer a:hover { 
+    color:#294B29;
+} 
