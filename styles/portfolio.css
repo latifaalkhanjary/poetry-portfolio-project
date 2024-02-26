@@ -129,3 +129,19 @@ footer .contact-email a {
 footer a:hover { 
     color:#294B29;
 } 
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  @media (min-width: 768px) {
+    footer {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-start;
+      text-align: center;
+    }
+  }
